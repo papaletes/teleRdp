@@ -1,0 +1,5 @@
+pyautogui
+torch
+pytesseract
+opencv
+pillow
